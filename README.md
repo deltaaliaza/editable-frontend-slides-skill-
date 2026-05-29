@@ -38,7 +38,7 @@ skills/
 After uploading this repository to GitHub, install the skill by asking Codex:
 
 ```text
-Use $skill-installer to install https://github.com/<owner>/<repo>/tree/main/skills/editable-frontend-slides
+Use $skill-installer to install https://github.com/deltaaliaza/editable-frontend-slides-skill-/tree/main/skills/editable-frontend-slides
 ```
 
 Restart Codex after installation so the skill is discovered.
