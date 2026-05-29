@@ -1,0 +1,11 @@
+interface:
+  display_name: "Editable Frontend Slides"
+  short_description: "Make HTML slide decks editable in-browser."
+  icon_small: "./assets/editable-slides-small.svg"
+  icon_large: "./assets/editable-slides-small.svg"
+  brand_color: "#087F83"
+  default_prompt: "Use $editable-frontend-slides to add reusable in-browser editing and export controls to this HTML slide deck."
+
+policy:
+  allow_implicit_invocation: true
+
