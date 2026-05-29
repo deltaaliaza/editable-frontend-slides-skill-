@@ -1,6 +1,6 @@
 ---
 name: editable-frontend-slides
-description: Add or maintain a reusable in-browser editing layer for zero-dependency HTML slide decks, especially decks created with frontend-slides. Use when a user wants editable HTML slides with E-key edit mode, draggable/resizable text boxes, cards, tables, image crop frames, image replacement, keyboard nudging, and portable HTML export that preserves edits.
+description: Add or repair a reusable in-browser editing layer for frontend-slides-style HTML decks. Use when a user asks to make an HTML presentation easier to edit later, easier to adjust layout, browser-editable, draggable, resizable, image-replaceable, or exportable while preserving the original deck design.
 ---
 
 # Editable Frontend Slides
